@@ -1,0 +1,51 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Total_Sales,Region,Customer_Name
+1001,2024-01-05,Laptop,Electronics,2,45000,90000,North,Rahul Sharma
+1002,2024-01-08,Mobile Phone,Electronics,5,15000,75000,South,Priya Singh
+1003,2024-01-10,Office Chair,Furniture,3,8000,24000,East,Amit Kumar
+1004,2024-01-15,Notebook,Stationery,50,100,5000,West,Sneha Patel
+1005,2024-01-18,Laptop,Electronics,1,45000,45000,North,Vikram Rao
+1006,2024-01-20,Desk,Furniture,2,12000,24000,South,Anjali Mehta
+1007,2024-01-22,Mobile Phone,Electronics,3,15000,45000,East,Rohit Verma
+1008,2024-01-25,Pen Drive,Electronics,20,500,10000,West,Kavya Nair
+1009,2024-02-02,Laptop,Electronics,3,45000,135000,North,Suresh Iyer
+1010,2024-02-05,Office Chair,Furniture,5,8000,40000,South,Deepa Reddy
+1011,2024-02-08,Mobile Phone,Electronics,4,15000,60000,East,Manish Gupta
+1012,2024-02-12,Notebook,Stationery,100,100,10000,West,Pooja Shah
+1013,2024-02-15,Desk,Furniture,1,12000,12000,North,Arjun Pillai
+1014,2024-02-18,Laptop,Electronics,2,45000,90000,South,Neha Joshi
+1015,2024-02-20,Pen Drive,Electronics,15,500,7500,East,Kiran Desai
+1016,2024-02-25,Mobile Phone,Electronics,6,15000,90000,West,Tarun Malhotra
+1017,2024-03-03,Office Chair,Furniture,4,8000,32000,North,Smita Kulkarni
+1018,2024-03-07,Laptop,Electronics,1,45000,45000,South,Rajesh Nambiar
+1019,2024-03-10,Notebook,Stationery,75,100,7500,East,Divya Menon
+1020,2024-03-14,Mobile Phone,Electronics,2,15000,30000,West,Harsh Trivedi
+1021,2024-03-18,Desk,Furniture,3,12000,36000,North,Meena Bose
+1022,2024-03-22,Pen Drive,Electronics,25,500,12500,South,Arun Chatterjee
+1023,2024-03-25,Laptop,Electronics,4,45000,180000,East,Sunita Yadav
+1024,2024-03-28,Mobile Phone,Electronics,3,15000,45000,West,Pankaj Tiwari
+1025,2024-04-02,Office Chair,Furniture,6,8000,48000,North,Rekha Saxena
+1026,2024-04-05,Notebook,Stationery,200,100,20000,South,Gaurav Mishra
+1027,2024-04-08,Laptop,Electronics,2,45000,90000,East,Shruti Pandey
+1028,2024-04-12,Desk,Furniture,4,12000,48000,West,Vinod Srivastava
+1029,2024-04-15,Mobile Phone,Electronics,7,15000,105000,North,Anita Dubey
+1030,2024-04-18,Pen Drive,Electronics,30,500,15000,South,Manoj Tripathi
+1031,2024-04-22,Laptop,Electronics,3,45000,135000,East,Geeta Rawat
+1032,2024-04-25,Office Chair,Furniture,2,8000,16000,West,Sanjay Bhatt
+1033,2024-05-02,Mobile Phone,Electronics,5,15000,75000,North,Lata Chauhan
+1034,2024-05-05,Notebook,Stationery,150,100,15000,South,Dinesh Jain
+1035,2024-05-08,Laptop,Electronics,1,45000,45000,East,Padma Krishnan
+1036,2024-05-12,Desk,Furniture,5,12000,60000,West,Ramesh Agarwal
+1037,2024-05-15,Pen Drive,Electronics,10,500,5000,North,Usha Bajaj
+1038,2024-05-18,Mobile Phone,Electronics,4,15000,60000,South,Naresh Kapoor
+1039,2024-05-22,Laptop,Electronics,2,45000,90000,East,Sarla Vyas
+1040,2024-05-25,Office Chair,Furniture,7,8000,56000,West,Bharat Sharma
+1041,2024-06-02,Mobile Phone,Electronics,8,15000,120000,North,Chandra Patel
+1042,2024-06-05,Notebook,Stationery,300,100,30000,South,Asha Verma
+1043,2024-06-08,Laptop,Electronics,5,45000,225000,East,Mohan Singh
+1044,2024-06-12,Desk,Furniture,2,12000,24000,West,Kamla Rao
+1045,2024-06-15,Pen Drive,Electronics,40,500,20000,North,Ravi Kumar
+1046,2024-06-18,Office Chair,Furniture,3,8000,24000,South,Shanta Mehta
+1047,2024-06-22,Mobile Phone,Electronics,6,15000,90000,East,Gopal Nair
+1048,2024-06-25,Laptop,Electronics,2,45000,90000,West,Indira Iyer
+1049,2024-07-02,Notebook,Stationery,100,100,10000,North,Sunil Reddy
+1050,2024-07-05,Desk,Furniture,6,12000,72000,South,Mala Gupta
